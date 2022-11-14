@@ -4,7 +4,7 @@ This repository is created by Harshit Sharma for the purpose of technojam  proje
 
 1. AT first go to https://github.com/harshitsharma25/TJ-Tasks-2022-Harshit-Sharma/tree/master
 
-2. then go to project3.html where whole code is written of this project 
+2. then go to project3.html https://github.com/harshitsharma25/TJ-Tasks-2022-Harshit-Sharma/blob/master/project3 where whole code is written of this project 
 
 3. I have added php as a backend server.
 
