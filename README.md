@@ -13,3 +13,8 @@ This repository is created by Harshit Sharma for the purpose of technojam  proje
 5. I have applied html, css and js at the various points when needed. 
 
 
+NAME - HARSHIT SHARMA
+
+COURSE - BTECH CSE (2021-25)
+
+SECTION - 10
